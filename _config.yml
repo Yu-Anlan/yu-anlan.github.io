@@ -22,7 +22,7 @@ repository               : "Yu-Anlan/yu-anlan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "homepage_photo.jpg"
   name             : "Anlan Yu"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Computer Science"
