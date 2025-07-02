@@ -40,9 +40,11 @@ Currently, my work focuses on GNSS-based positioning and sensing applications.
   Xuanzhi Wang, Kai Niu, **Anlan Yu**, Jie Xiong, Zhiyun Yao, Junzhe Wang, Wenwei Li, Daqing Zhang  
 
 ### 2022
-- <span style="color:blue">[Journal on Communications 2022]</span> **Integrated Sensing and Communications for Internet of Vehicles: Current Status and Development Trend**  
+- <span style="color:blue">[通信学报 2022]</span> **车联网通信感知一体化研究：现状与发展趋势**  
   Xiang Cheng, Haotian Zhang, Zonghui Yang, Ziwei Huang, Sijiang Li, **Anlan Yu**  
 
+## Academic Service
+- ** Reviewer** ACM IMWUT, 2025
 
 ## Teaching Experience
 
