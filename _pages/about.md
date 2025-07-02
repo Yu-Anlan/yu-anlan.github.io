@@ -44,12 +44,12 @@ Currently, my work focuses on GNSS-based positioning and sensing applications.
   Xiang Cheng, Haotian Zhang, Zonghui Yang, Ziwei Huang, Sijiang Li, **Anlan Yu**  
 
 ## Academic Service
-- ** Reviewer** ACM IMWUT, 2025
+- **Reviewer** ACM IMWUT, 2025
 
 ## Teaching Experience
 
-- ** Teaching Assistant of Discrete Mathematics** (Fall 2022)  
-- ** Teaching Assistant of  Object Oriented Analysis and Design** (Graduate Course, Fall 2023)  
+- **Teaching Assistant of Discrete Mathematics** (Fall 2022)  
+- **Teaching Assistant of  Object Oriented Analysis and Design** (Graduate Course, Fall 2023)  
 
 ## Honors & Awards
 - IEEE PerCom TCCC Student Travel Grant (2025)
