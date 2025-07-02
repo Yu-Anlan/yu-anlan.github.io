@@ -14,6 +14,9 @@ My research centers on pervasive computing, wireless sensing, and mobile computi
 ## Publications
 
 ### 2025
+- <span style="color:green">[MobiCom 2025]</span> **DeployHAR: Experience Paper: Nationwide Human Behavior Sensing in Last-mile Delivery**  
+  Zhiqing Hong, Weibing Wang, **Anlan Yu**, Shuxin Zhong, Haotian Wang, Yi Ding, Tian He, Desheng Zhang  
+
 - <span style="color:green">[PerCom 2025]</span> **FineSat: Enhancing GNSS Signals for High-precision Sensing**  
   **Anlan Yu**, Xuanzhi Wang, Pei Wang, Jinkun Li, Xujun Ma, Zhiqing Hong, Haotian Wang, Yi Ding, Daqing Zhang  
 
@@ -37,3 +40,16 @@ My research centers on pervasive computing, wireless sensing, and mobile computi
 ### 2022
 - <span style="color:blue">[Journal on Communications 2022]</span> **Integrated Sensing and Communications for Internet of Vehicles: Current Status and Development Trend**  
   Xiang Cheng, Haotian Zhang, Zonghui Yang, Ziwei Huang, Sijiang Li, **Anlan Yu**  
+
+
+## Teaching Experience
+
+**Teaching Assistant**  
+- **Discrete Mathematics** (Fall 2022)  
+- **Object Oriented Analysis and Design** (Graduate Course, Fall 2023)  
+
+## Honors & Awards
+- First Prize in the First Wi-Fi Sensing Competition
+- Merit Student (2022, 2024)  
+- Ubiquant Scholarship (2022, 2024)  
+- Outstanding Admissions Volunteer (2021, 2022, 2024)  
