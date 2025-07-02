@@ -48,8 +48,8 @@ Currently, my work focuses on GNSS-based positioning and sensing applications.
 
 ## Teaching Experience
 
-- **Teaching Assistant of Discrete Mathematics** (Fall 2022)  
-- **Teaching Assistant of  Object Oriented Analysis and Design** (Graduate Course, Fall 2023)  
+- **Teaching Assistant** Discrete Mathematics, Fall 2022
+- **Teaching Assistant** Object Oriented Analysis and Design (Graduate Course), Fall 2023
 
 ## Honors & Awards
 - IEEE PerCom TCCC Student Travel Grant (2025)
