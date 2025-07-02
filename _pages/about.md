@@ -31,10 +31,10 @@ My research centers on pervasive computing, wireless sensing, and mobile computi
   Xuanzhi Wang, **Anlan Yu**, Kai Niu, Weiyan Shi, Junzhe Wang, Zhiyun Yao, Rahul C Shah, Hong Lu, Daqing Zhang  
 
 ### 2023
-- <span style="color:blue">[IMWUT (Ubicomp 2023)]</span> **UniFi: A Unified Framework for Generalizable Gesture Recognition with Wi-Fi Signals Using Consistency-guided Multi-View Networks**  
+- <span style="color:green">[IMWUT (Ubicomp 2023)]</span> **UniFi: A Unified Framework for Generalizable Gesture Recognition with Wi-Fi Signals Using Consistency-guided Multi-View Networks**  
   Yan Liu, **Anlan Yu**, Leye Wang, Bin Guo, Yang Li, Enze Yi, Daqing Zhang  
 
-- <span style="color:blue">[IMWUT (Ubicomp 2023)]</span> **WiMeasure: Millimeter-level Object Size Measurement with Commodity WiFi Devices**  
+- <span style="color:green">[IMWUT (Ubicomp 2023)]</span> **WiMeasure: Millimeter-level Object Size Measurement with Commodity WiFi Devices**  
   Xuanzhi Wang, Kai Niu, **Anlan Yu**, Jie Xiong, Zhiyun Yao, Junzhe Wang, Wenwei Li, Daqing Zhang  
 
 ### 2022
@@ -44,12 +44,11 @@ My research centers on pervasive computing, wireless sensing, and mobile computi
 
 ## Teaching Experience
 
-**Teaching Assistant**  
-- **Discrete Mathematics** (Fall 2022)  
-- **Object Oriented Analysis and Design** (Graduate Course, Fall 2023)  
+- **T.A. of Discrete Mathematics** (Fall 2022)  
+- **T.A. Object Oriented Analysis and Design** (Graduate Course, Fall 2023)  
 
 ## Honors & Awards
 - First Prize in the First Wi-Fi Sensing Competition
-- Merit Student (2022, 2024)  
-- Ubiquant Scholarship (2022, 2024)  
-- Outstanding Admissions Volunteer (2021, 2022, 2024)  
+- Peking University Merit Student (2022, 2024)  
+- Peking University Ubiquant Scholarship (2022, 2024)  
+- Peking University Outstanding Admissions Volunteer (2021, 2022, 2024)  
