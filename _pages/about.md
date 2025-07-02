@@ -46,11 +46,12 @@ Currently, my work focuses on GNSS-based positioning and sensing applications.
 
 ## Teaching Experience
 
-- **T.A. of Discrete Mathematics** (Fall 2022)  
-- **T.A. Object Oriented Analysis and Design** (Graduate Course, Fall 2023)  
+- ** Teaching Assistant of Discrete Mathematics** (Fall 2022)  
+- ** Teaching Assistant of  Object Oriented Analysis and Design** (Graduate Course, Fall 2023)  
 
 ## Honors & Awards
-- First Prize in the First Wi-Fi Sensing Competition
+- IEEE PerCom TCCC Student Travel Grant (2025)
+- First Prize in the First Wi-Fi Sensing Competition (2023)
 - Peking University Merit Student (2022, 2024)  
 - Peking University Ubiquant Scholarship (2022, 2024)  
 - Peking University Outstanding Admissions Volunteer (2021, 2022, 2024)  
